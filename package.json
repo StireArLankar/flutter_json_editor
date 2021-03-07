@@ -1,0 +1,11 @@
+{
+  "name": "flutter_json_editor",
+  "version": "1.0.0",
+  "repository": "git@github.com:StireArLankar/flutter_json_editor.git",
+  "author": "Stire <stire.ru@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "web": "flutter run -d edge",
+    "windows": "flutter run -d windows"
+  }
+}
